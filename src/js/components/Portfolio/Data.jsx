@@ -4,7 +4,7 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    Title: "Podex",
+    Title: "Pokedex",
     Category: "Personal projects",
     Demo: "https://pi-pokemon-main-sigma.vercel.app/home",
   },
